@@ -1,0 +1,266 @@
+[2024-10-25 16:00:22] Received data: Array
+(
+    [student_id] => 20242025
+    [offer_code] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:00:23] Received data: Array
+(
+    [student_id] => 20242025
+    [offer_code] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:00:23] No rows affected
+[2024-10-25 16:13:18] Received data: Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.1
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:18] Response: {"success":true,"message":"Grade posted successfully"}
+[2024-10-25 16:13:19] Received data: Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.1
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:19] Response: {"success":true,"message":"Grade posted successfully"}
+[2024-10-25 16:13:36] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:36] Missing required fields
+[2024-10-25 16:13:37] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:37] Missing required fields
+[2024-10-25 16:13:40] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:40] Missing required fields
+[2024-10-25 16:13:41] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:41] Missing required fields
+[2024-10-25 16:13:42] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:43] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:51] Received data: Array
+(
+    [student_id] => 20200528
+    [offercode] => 1111A
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:51] Missing required fields
+[2024-10-25 16:13:52] Received data: Array
+(
+    [student_id] => 20200528
+    [offercode] => 1111A
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:13:52] Missing required fields
+[2024-10-25 16:14:53] Received data: Array
+(
+    [student_id] => 20242025
+    [offer_code] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:14:53] Response: {"success":true,"message":"Grade posted successfully"}
+[2024-10-25 16:14:54] Received data: Array
+(
+    [student_id] => 20242025
+    [offer_code] => 1111B
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:14:54] Response: {"success":true,"message":"Grade posted successfully"}
+[2024-10-25 16:15:03] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:15:03] Missing required fields
+[2024-10-25 16:15:04] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:15:04] Missing required fields
+[2024-10-25 16:15:06] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:15:06] Missing required fields
+[2024-10-25 16:15:07] Received data: Array
+(
+    [student_id] => 20242025
+    [offercode] => 1111B
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:15:07] Missing required fields
+[2024-10-25 16:16:39] Received data: Array
+(
+    [student_id] => 20200528
+    [offercode] => 1111A
+    [grade_type] => ffg
+    [grade] => 0.00
+    [semester_id] => 18
+)
+
+[2024-10-25 16:16:39] Missing required fields
+[2024-10-25 16:16:45] Received data: Array
+(
+    [student_id] => 20200528
+    [offercode] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:16:45] Missing required fields
+[2024-10-25 16:16:46] Received data: Array
+(
+    [student_id] => 20200528
+    [offercode] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:16:46] Missing required fields
+[2024-10-25 16:16:56] Received data: Array
+(
+    [student_id] => 20200528
+    [offercode] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:16:56] Missing required fields
+[2024-10-25 16:16:57] Received data: Array
+(
+    [student_id] => 20200528
+    [offercode] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:16:57] Missing required fields
+[2024-10-25 16:20:58] Received data: Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:20:58] Response: {"success":true,"message":"Grade posted successfully"}
+[2024-10-25 16:20:59] Received data: Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1111A
+    [grade_type] => prelim
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:20:59] Response: {"success":true,"message":"Grade posted successfully"}
+[2024-10-25 16:26:32] Received data: Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1111A
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:26:32] Received data: Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1111A
+    [grade_type] => midterm
+    [grade] => 2.5
+    [semester_id] => 18
+)
+
+[2024-10-25 16:26:32] No rows affected

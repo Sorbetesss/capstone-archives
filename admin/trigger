@@ -1,0 +1,5 @@
+CREATE TRIGGER auto_insert_student_id
+AFTER INSERT ON student
+FOR EACH ROW
+INSERT INTO grades (student_id)
+VALUES (NEW.student_id);

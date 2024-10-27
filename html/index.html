@@ -1,0 +1,132 @@
+<html>
+<head>
+    <title>My Grades</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #3366cc;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .container {
+            margin-top: 20px;
+        }
+        .info {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        .table-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .table th {
+            background-color: #ffeb3b;
+            text-align: center;
+        }
+        .table td {
+            text-align: center;
+        }
+        .btn-print {
+            background-color: #3366cc;
+            color: white;
+            font-size: 1.2em;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .btn-print i {
+            margin-left: 10px;
+        }
+        .logout-btn {
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            padding: 5px 10px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .logout-btn i {
+            margin-left: 5px;
+        }
+    </style>
+</head>
+<body>
+  <div style="background-image: url('../assets/jpaul.jpg'); background-size: cover; background-position: center; height: 100vh; ">
+    <div class="header d-flex justify-content-between align-items-center">
+        <h1>MY GRADES</h1>
+        <button class="logout-btn">
+            Log out <i class="fas fa-sign-out-alt"></i>
+        </button>
+    </div>
+    <div class="container">
+        <div class="d-flex justify-content-end mb-3">
+            <select class="form-select w-auto">
+                <option selected>2023_2024 - 2 SEMESTER</option>
+                <!-- Add other options as needed -->
+            </select>
+        </div>
+        <div class="table-container">
+            <div class="info d-flex justify-content-between">
+                <div>
+                    <p>NAME: Carlo Isidro Mamac</p>
+                    <p>ID NUMBER: 12345678</p>
+                </div>
+                <div>
+                    <p>COURSE: BSIT</p>
+                </div>
+            </div>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>SUBJECT CODE</th>
+                        <th>PRELIM</th>
+                        <th>MIDTERM</th>
+                        <th>STATUS</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>IT118</td>
+                        <td>2.5</td>
+                        <td>2.5</td>
+                        <td>CLEARED</td>
+                    </tr>
+                    <tr>
+                        <td>PF107</td>
+                        <td>2.5</td>
+                        <td>2.5</td>
+                        <td>CLEARED</td>
+                    </tr>
+                    <tr>
+                        <td>NET102</td>
+                        <td>2.5</td>
+                        <td>2.5</td>
+                        <td>CLEARED</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="d-flex justify-content-end mt-3">
+                <button class="btn-print">
+                    PRINT GRADES <i class="fas fa-download"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

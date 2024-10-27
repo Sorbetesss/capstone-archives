@@ -1,0 +1,32 @@
+Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1234A
+    [grade_type] => prelim
+    [grade] => 3.5
+)
+UPDATE student_grades SET prelim = '3.5' WHERE student_id = '20200528' AND offercode = '1234A'
+Array
+(
+    [student_id] => 20200528
+    [offercode] => 1234A
+    [prelim] => 3.5
+    [posted] => 1
+)
+UPDATE student_grades SET  = '' WHERE student_id = '20200528' AND offercode = ''
+Array
+(
+    [student_id] => 20200528
+    [offer_code] => 1234A
+    [grade_type] => midterm
+    [grade] => 2.5
+)
+UPDATE student_grades SET midterm = '2.5' WHERE student_id = '20200528' AND offercode = '1234A'
+Array
+(
+    [student_id] => 20200528
+    [offer_code] => 5678A
+    [grade_type] => prelim
+    [grade] => 3.5
+)
+UPDATE student_grades SET prelim = ?, prelim_posted = ? WHERE student_id = ? AND offercode = ?
